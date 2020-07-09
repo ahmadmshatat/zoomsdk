@@ -1,5 +1,5 @@
 {
-    "name": "@zoomus/websdk",
+    "name": "@zoomus/ahmed/websdk",
     "version": "1.7.9",
     "description": "Zoom Web SDK",
     "main": "index.js",
