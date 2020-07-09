@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zoom/websdk.git"
+        "url": "git+https://github.com/ahmadmshatat/metting.git"
     },
     "keywords": ["zoom", "web", "sdk"],
     "author": "Jack Yang",
@@ -37,3 +37,5 @@
     },
     "files": ["dist/*"]
 }
+
+
