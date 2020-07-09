@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ahmadmshatat/metting.git"
+        "url": "git+https://github.com/ahmadmshatat/zoomsus.git"
     },
     "keywords": ["zoom", "web", "sdk"],
     "author": "Jack Yang",
