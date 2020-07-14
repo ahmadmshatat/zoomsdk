@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ahmadmshatat/metting.git"
+        "url": "https://github.com/ahmadmshatat/zoomsdk.git"
     },
     "keywords": ["zoom", "web", "sdk"],
     "author": "Jack Yang",
     "license": "MIT",
     "homepage": "https://github.com/zoom/websdk#readme",
     "bugs": {
-        "url": "https://github.com/zoom/websdk/issues"
+        "url": "https://github.com/ahmadmshatat/zoomSdk/issues"
     },
     "dependencies": {
         "react": "16.8.6",
